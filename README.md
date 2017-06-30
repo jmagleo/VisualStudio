@@ -1,2 +1,0 @@
-# VisualStudio
-Visual Studio projects
